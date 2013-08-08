@@ -24,3 +24,5 @@ doc/
 .DS_Store
 .idea
 .secret
+
+#edited based on ruby on rails tutorial
